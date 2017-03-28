@@ -1,0 +1,16 @@
+[
+  {
+    "key": "question1",
+    "type": "radiobuttons",
+    "titleMap": [
+      {
+        "value": false,
+        "name": "No"
+      },
+      {
+        "value": true,
+        "name": "Yes"
+      }
+    ]
+  }
+]

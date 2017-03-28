@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "radiobuttons": {
+      "title": "Have you ever been in london?",
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
