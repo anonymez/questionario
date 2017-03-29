@@ -1,7 +1,7 @@
 {
   "type": "object",
   "properties": {
-    "radiobuttons": {
+    "question1": {
       "title": "Have you ever been in london?",
       "type": "boolean",
       "default": false
