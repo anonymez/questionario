@@ -11,8 +11,24 @@
         "value": true,
         "name": "Yes"
       }
-      ,{"value": -1,
+      ,{"value": false,
 	"name":"N/A"
+    ]
+  },
+  {
+    "key": "security_classification_methodology",
+    "type": "radiobuttons",
+    "titleMap": [
+      {
+        "value": false,
+        "name": "No"
+      },
+      {
+        "value": true,
+        "name": "Yes"
+      }
+      ,{"value": false,
+        "name":"N/A"
     ]
   }
 ]
