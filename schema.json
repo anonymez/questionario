@@ -6,7 +6,7 @@
       "type": "boolean"
     },
     "security_classification_methodology":{
-       "title":"Security classification methodology - Do you operate a security classification methodology that applies throughout your business and Systems?"
+       "title":"Security classification methodology - Do you operate a security classification methodology that applies throughout your business and Systems?",
 	"type":"boolean"
     }
 
