@@ -12,7 +12,7 @@
         "name": "Yes"
       }
       ,{"value": false,
-	"name":"N/A"
+	"name":"N/A"}
     ]
   },
   {
@@ -28,7 +28,7 @@
         "name": "Yes"
       }
       ,{"value": false,
-        "name":"N/A"
+        "name":"N/A"}
     ]
   }
 ]
