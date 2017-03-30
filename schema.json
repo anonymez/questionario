@@ -1,8 +1,8 @@
 {
   "type": "object",
   "properties": {
-    "question1": {
-      "title": "Have you ever been in london?",
+    "is_policy": {
+      "title": " IS Policy - Do you have a comprehensive, documented Information Security Policy that is it communicated to all your Personnel and all other Third Parties with access to Barclays Data, Barclays Confidential Information, and your own Information or Systems?",
       "type": "boolean",
     }
   }

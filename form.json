@@ -1,6 +1,6 @@
 [
   {
-    "key": "question1",
+    "key": "is_policy",
     "type": "radiobuttons",
     "titleMap": [
       {
@@ -11,6 +11,8 @@
         "value": true,
         "name": "Yes"
       }
+      ,{"value": -1,
+	"name":"N/A"
     ]
   }
 ]
