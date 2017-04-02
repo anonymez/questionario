@@ -1,14 +1,1 @@
-{
-  "type": "object",
-  "properties": {
-    "is_policy": {
-      "title": "IS Policy - Do you have a comprehensive, documented Information Security Policy that is it communicated to all your Personnel and all other Third Parties with access to Barclays Data, Barclays Confidential Information, and your own Information or Systems?",
-      "type": "boolean"
-    },
-    "security_classification_methodology":{
-       "title":"Security classification methodology - Do you operate a security classification methodology that applies throughout your business and Systems?",
-	"type":"boolean"
-    }
-
-  }
-}
+{"type": "object", "properties": {"dps": {"type": "boolean", "title": "avete redatto il DPS? Se si avete una copia dell'ultimo?"}, "dati_rilasciati_terzi": {"type": "boolean", "title": "i dati vengono rilasciati a terze societ\u00e0?"}, "196_2003": {"type": "boolean", "title": "avete fatto un adeguamento al D.Lgs. 196/2003?"}, "raccolta_dati_comment": {"type": "text", "title": "note"}, "196_2003_comment": {"type": "text", "title": "note"}, "dipendenti": {"type": "boolean", "title": "i dipendenti sono stati nominati incaricati?"}, "dati_rilasciati_terzi_comment": {"type": "text", "title": "note"}, "titolare": {"type": "boolean", "title": "chi \u00e8 il titolare del trattamento?"}, "responsabile": {"type": "boolean", "title": "avete nominato un responsabile? "}, "responsabile_comment": {"type": "text", "title": "note"}, "dipendenti_comment": {"type": "text", "title": "note"}, "responsabile_int_ext_comment": {"type": "text", "title": "note"}, "informativa": {"type": "boolean", "title": "fornite una informativa?"}, "dps_comment": {"type": "text", "title": "note"}, "responsabile_int_ext": {"type": "boolean", "title": "Il responsabile \u00e8 interno o esterno all'azienda?"}, "informativa_comment": {"type": "text", "title": "note"}, "raccolta_dati": {"type": "boolean", "title": "La raccolta dei dati come avviene?"}, "titolare_comment": {"type": "text", "title": "note"}}}

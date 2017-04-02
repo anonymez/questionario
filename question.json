@@ -1,11 +1,37 @@
 [{
-  "title":"IS Policy",
-  "key_q":"is_policy",
-  "question":"Do you have a comprehensive, documented Information Security Policy that is it communicated to all your Personnel and all other Third Parties with access to Barclays Data, Barclays Confidential Information, and your own Information or Systems?"
-},
-  {
-  "key_q" :"security_classification_methodology",
-  "title":"Security classification methodology",
-  "question":"Do you operate a security classification methodology that applies throughout your business and Systems?"
-}
-]
+	"title": "196/2003",
+	"key_q": "196_2003",
+	"question": "avete fatto un adeguamento al D.Lgs. 196/2003?"
+}, {
+	"title": "titolare",
+	"key_q": "titolare",
+	"question": "chi è il titolare del trattamento?"
+}, {
+	"title": "responsabile",
+	"key_q": "responsabile",
+	"question": "avete nominato un responsabile? "
+}, {
+	"title": "responsabile interno",
+	"key_q": "responsabile_int_ext",
+	"question": "Il responsabile è interno o esterno all'azienda?"
+}, {
+	"title": "raccolta data",
+	"key_q": "raccolta_dati",
+	"question": "La raccolta dei dati come avviene?"
+}, {
+	"title": "",
+	"key_q": "informativa",
+	"question": "fornite una informativa?"
+}, {
+	"title": "",
+	"key_q": "dati_rilasciati_terzi",
+	"question": "i dati vengono rilasciati a terze società?"
+}, {
+	"title": "",
+	"key_q": "dps",
+	"question": "avete redatto il DPS? Se si avete una copia dell'ultimo?"
+}, {
+	"title": "",
+	"key_q": "dipendenti",
+	"question": "i dipendenti sono stati nominati incaricati?"
+}]
