@@ -1,0 +1,45 @@
+[{
+"title":"AIS-01.1",
+"key_q":"AIS-01.1	",
+"question":"Do you use industry standards (Build Security in Maturity Model [BSIMM] benchmarks, Open Group ACS Trusted Technology Provider Framework, NIST, etc.) to build in security for your Systems/Software Development Lifecycle (SDLC)?"
+},
+{
+"title":"AIS-01.2",
+"key_q":"AIS-01.2",
+"question":"Do you use an automated source code analysis tool to detect security defects in code prior to production?"
+},
+{
+"title":"AIS-01.3",
+"key_q":"AIS-01.3",
+"question":"Do you use manual source-code analysis to detect security defects in code prior to production?"
+},
+{
+"title":"AIS-01.4",
+"key_q":"AIS-01.4",
+"question":"Do you verify that all of your software suppliers adhere to industry standards for Systems/Software Development Lifecycle (SDLC) security?"
+},
+{
+"title":"AIS-01.5",
+"key_q":"AIS-01.5",
+"question":"(SaaS only) Do you review your applications for security vulnerabilities and address any issues prior to deployment to production?"
+},
+{
+"title":"AIS-02.1",
+"key_q":"AIS-02.1",
+"question":"Are all identified security, contractual, and regulatory requirements for customer access contractually addressed and remediated prior to granting customers access to data, assets, and information systems?"
+},
+{
+"title":"AIS-02.2",
+"key_q":"AIS-02.2",
+"question":"Are all requirements and trust levels for customers’ access defined and documented?"
+},
+{
+"title":"AIS-03.1",
+"key_q":"AIS-03.1",
+"question":"Are data input and output integrity routines (i.e., reconciliation and edit checks) implemented for application interfaces and databases to prevent manual or systematic processing errors or corruption of data?"
+},
+{
+"title":"AIS-04.1",
+"key_q":"AIS-04.1",
+"question":"Is your Data Security Architecture designed using an industry standard (e.g., CDSA, MULITSAFE, CSA Trusted Cloud Architectural Standard, FedRAMP, CAESARS)?"}
+]
